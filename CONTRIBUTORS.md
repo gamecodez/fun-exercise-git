@@ -1,2 +1,2 @@
 # Contributors
-- [narusorn](narusorn.nim@gmail.com)
+- [narusorn.nim](narusorn.nim@gmail.com)
