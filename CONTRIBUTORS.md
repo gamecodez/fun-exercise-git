@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [Narusorn](narusorn.nim@gmail.com)
